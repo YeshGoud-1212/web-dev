@@ -49,7 +49,7 @@ This project demonstrates layout mastery with a clean, responsive design suitabl
 #### 📁 Structure
 
 #### 🌐 Live Preview
-[🔗 View Project](https://yeshgoud-1212.github.io/web-dev/Responsive-UI/)
+[🔗 View Project](https://yeshgoud-1212.github.io/web-dev/ResponsiveUI/)
 
 ---
 
