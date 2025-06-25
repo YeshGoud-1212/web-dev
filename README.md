@@ -27,7 +27,7 @@ A fully responsive, professional-grade replica of the Udemy homepage built from 
 #### 📁 Structure
 
 #### 🌐 Live Preview
-[🔗 View Project](https://yeshgoud-1212.github.io/web-dev/udemyclone/)
+[🔗 View Project](https://yeshgoud-1212.github.io/web-dev/Udemyclone/)
 
 ---
 
@@ -49,7 +49,7 @@ This project demonstrates layout mastery with a clean, responsive design suitabl
 #### 📁 Structure
 
 #### 🌐 Live Preview
-[🔗 View Project](https://yeshgoud-1212.github.io/web-dev/responsive-ui/)
+[🔗 View Project](https://yeshgoud-1212.github.io/web-dev/Responsive-UI/)
 
 ---
 
