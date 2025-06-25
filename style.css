@@ -1,0 +1,25 @@
+@media screen and (max-width:800px) {
+     .kl{
+        display: none;
+    }  
+}
+@media screen and (min-width:800px) {
+     .dl{
+        display: none;
+    }  
+}
+
+.kl{
+    max-width: 40%;
+    max-height: 50%;
+   height:100px;
+}
+.mc{
+    background-color: #F7F9FA;
+}
+.mc .p{
+    color: #8291AE;
+}
+.mc .card:hover{
+    background-color: #c8cfd4;
+}
