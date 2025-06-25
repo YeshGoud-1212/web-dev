@@ -21,5 +21,12 @@ These mini-projects were originally built on [CodePen](https://codepen.io/) and 
 ## 📁 Folder Structure
 
 Each assignment is in its own folder with the following typical structure:
-<pre lang="markdown"><code>``` assignment-name/ ├── index.html └── style.css ``` Each folder contains all the code needed to run the assignment. Open `index.html` in a browser to view. ``` </code></pre>
+
+```
+assignment-name/
+├── index.html
+└── style.css
+```
+
+Each folder contains all the code needed to run the assignment. Open `index.html` in a browser to view.
 
